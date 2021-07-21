@@ -1,4 +1,4 @@
-# VCMusicPlayer v3.0
+# GIZAKO MusicPlayer v3.0
 
 - An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
@@ -8,11 +8,6 @@
 
 Click the below button to watch the video tutorial on deploying
 
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/badge/How%20To%20Deploy%20v3.0%20Latest-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/FKaAU4Pr2bw"><img src="https://img.shields.io/youtube/views/FKaAU4Pr2bw?style=social">
-
-<a href="https://youtu.be/FGZr-V2lCo8"><img src="https://img.shields.io/badge/How%20To%20Deploy%20v2.0%20Old-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/FGZr-V2lCo8"><img src="https://img.shields.io/youtube/views/FGZr-V2lCo8?style=social">
 
 ## NOTE:
 
@@ -20,12 +15,12 @@ Click the below button to watch the video tutorial on deploying
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LushaiMusic/VCMusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gizako/VCMusicPlayer)
 
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/LushaiMusic/VCMusicPlayer
+git clone https://github.com/gizako/VCMusicPlayer
 cd VCMusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
