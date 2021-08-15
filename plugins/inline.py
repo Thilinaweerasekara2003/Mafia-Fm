@@ -21,10 +21,10 @@ from config import Config
 REPLY_MESSAGE=Config.REPLY_MESSAGE
 buttons = [
     [
-        InlineKeyboardButton('🏃 Deploy to Heroku 🏃', url='https://heroku.com/deploy?template=https://github.com/gizako/VCMusicPlayer'),
+        InlineKeyboardButton('🏃 Deploy to Heroku 🏃', url='https://heroku.com/deploy?template=https://github.com/Thilinaweerasekara2003/Mafia-Fm'),
     ],
     [
-        InlineKeyboardButton('👨‍🎤 Play Music', url=f'https://t.me/{USERNAME}'),
+        InlineKeyboardButton('👨‍🎤 Play Music', url=f'https://t.me/HiTecRobot'),
         InlineKeyboardButton('How to Deploy 🤓', url='https://t.me/c/14g81808444/131'),
     ],
     [
