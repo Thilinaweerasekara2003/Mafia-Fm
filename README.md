@@ -1,4 +1,4 @@
-# GIZAKO MusicPlayer v3.0
+# Mafia Fm  v3.0
 
 - An Telegram Bot to Play Radio/Music in Channel or Group Voice Chats.
 - A Telegram Bot to Play Audio in Voice Chats With Youtube and Deezer support.
@@ -20,7 +20,7 @@ Click the below button to watch the video tutorial on deploying
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/gizako/VCMusicPlayer
+git clone https://github.com/Thilinaweerasekara2003/Mafia-Fm
 cd VCMusicPlayer
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
